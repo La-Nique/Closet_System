@@ -1,0 +1,19 @@
+create table LANIQUE_CLOSET_SYS_RAW_NF1 (
+Username varchar(128),
+Garment_Type varchar(64),
+Color varchar(32),
+Cool_Season varchar(16),
+Warm_Season varchar(16),
+School varchar(4),
+Work varchar(4),
+Date_Night varchar(4),
+Professional_Networking_Event varchar(4),
+Indoor_Party varchar(4),
+Outdoor_Party varchar(4),
+Gym varchar(4),
+Concert varchar(4),
+WFH varchar(4),
+Casual_Day_Out varchar(4),
+Image_File varchar(128),
+Day varchar(64)
+) ;
