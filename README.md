@@ -1,8 +1,7 @@
 # Lanique's Closet System
 ##### Developed by Lanique Lynn Peterson
-###### IBM Cloud sponsored by Power Systems Academic Initiative
-## CSCI 435; Database Project Deliverable Problem Statement: Lanique's Closet System
-
+###### IBM Cloud sponsored by Power Systems Academic Initiative; CSCI 435
+## Database Management Project Deliverable Problem Statement: Lanique's Closet System
 
 [View Presentation / Project Demo](https://github.com/La-Nique/Closet_System/blob/main/final_project_DBM_Lanique_Peterson.pdf)
 
@@ -15,7 +14,8 @@ Lanique's Closet System is a closet management system for young adults that elim
 For Lanique's Closet System, the user will manually enter images of their clothing and its description into our system. Our system will then organize the data based on the type of garment, its color, season, and event. Each garment will have a mapping to other items within their closet that work well with that piece based on user input.
 
 Our service will automate different clothing choices based on the user’s daily events and weather conditions with the support of external data collection via weather.com and from their digital calendars such as Google Calendar.
- 
+
+###### [teaser photo of project demo] project data collection prior to SQL entry:
 [<img width="840" alt="Lanique_Peterson_DBM" src="https://user-images.githubusercontent.com/54916166/185746575-58d4a856-0c67-4c4e-9933-8f70bda659f3.png">](https://github.com/La-Nique/Closet_System/blob/main/final_project_DBM_Lanique_Peterson.pdf)
 
 ### Requirements:
