@@ -1,7 +1,7 @@
 # Lanique's Closet System
 ##### Developed by Lanique Lynn Peterson
 ###### IBM Cloud sponsored by Power Systems Academic Initiative; CSCI 435
-## Database Management Project Deliverable Problem Statement: Lanique's Closet System
+## Database Management Project Deliverable Problem Statement: <br> Lanique's Closet System
 
 [View Presentation / Project Demo](https://github.com/La-Nique/Closet_System/blob/main/final_project_DBM_Lanique_Peterson.pdf)
 
@@ -51,4 +51,6 @@ Our service will automate different clothing choices based on the user’s daily
 * Receive:
     * List of recommended outfits and notification that a garment needs matching.
 
-###### all rights reserved
+###### all rights reserved by Lanique Lynn Peterson
+
+###### Final Class Grade: A
